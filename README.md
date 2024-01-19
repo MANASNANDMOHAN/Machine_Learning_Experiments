@@ -1,10 +1,10 @@
 Machine Learning is an Ai domain where we extract patterns from the data ,analyze & visualize the data and make intelligent predictions on new data according to 
 the pattern your machine has learnt.
 # Machine Learning Experiments
-<img width="569" alt="image" src="https://github.com/MANASNANDMOHAN/Machine_Learning_Experiments/assets/132326345/7c99536d-9f51-48b4-a721-124515da7961">
+<img width="600" alt="image" src="https://github.com/MANASNANDMOHAN/Machine_Learning_Experiments/assets/132326345/7c99536d-9f51-48b4-a721-124515da7961">
 
 Welcome to the "Machine Learning Experiments" repository! This repository contains implementations of various machine learning algorithms on different datasets. Each experiment showcases the application of popular machine learning models for regression and classification tasks.
-<img width="425" alt="image" src="https://github.com/MANASNANDMOHAN/Machine_Learning_Experiments/assets/132326345/c6fcf2d1-ef62-40aa-b68f-b348f8428997">
+<img width="600" alt="image" src="https://github.com/MANASNANDMOHAN/Machine_Learning_Experiments/assets/132326345/c6fcf2d1-ef62-40aa-b68f-b348f8428997">
 
 ## Experiments Overview
 
